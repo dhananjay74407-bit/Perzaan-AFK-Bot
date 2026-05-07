@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "spellorg.aternos.me",
+    "port": 14959,
     "version": "1.21.1"
   },
   "position": {
